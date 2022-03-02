@@ -18,9 +18,9 @@ News
 Selected Publications
 ======
 * (ICLR 2022 spotlight) [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)  
-Xiaoyu Chen*, Jiachen Hu*,  Chi Jin, Lihong Li, Liwei Wang  
-Highlight: We model the simulator in sim-to-real transfer as a set of MDPs with tunable parameters. We prove that zero-shot sim-to-real transfer is possible if we use the domain randomization algorithm with a memory augmented policy model.
+**Xiaoyu Chen**\*, Jiachen Hu\*,  Chi Jin, Lihong Li, Liwei Wang  
+**Highlight**: We model the simulator in sim-to-real transfer as a set of MDPs with tunable parameters. We prove that zero-shot sim-to-real transfer is possible if we use the domain randomization algorithm with a memory augmented policy model.
 
 * (ICLR 2022 spotlight) [Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver](https://arxiv.org/abs/2110.03244)  
-Xiaoyu Chen, Jiachen Hu, Lin F. Yang, Liwei Wang  
-Highlight: we focus on the reward-free setting in which the agent learns a model in the exploration phase and demands that any planning algorithm on the learned model can give a near-optimal policy. We provide a efficient learning algorithms with near-optimal sample complexity bound.
+**Xiaoyu Chen**, Jiachen Hu, Lin F. Yang, Liwei Wang  
+**Highlight**: we focus on the reward-free setting in which the agent learns a model in the exploration phase and demands that any planning algorithm on the learned model can give a near-optimal policy. We provide a efficient learning algorithms with near-optimal sample complexity bound.
