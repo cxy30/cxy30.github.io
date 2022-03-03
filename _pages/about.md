@@ -23,4 +23,4 @@ Selected Publications
 
 * (ICLR 2022 spotlight) [Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver](https://arxiv.org/abs/2110.03244)  
 **Xiaoyu Chen**, Jiachen Hu, Lin F. Yang, Liwei Wang  
-**Highlight**: We formulate the reward-free setting with a plug-in solver, in which the agent learns a model in the exploration phase and demands that any planning algorithm on the learned model can give a near-optimal policy. We provide a efficient learning algorithms with near-optimal sample complexity bound.
+**Highlight**: We formulate the reward-free setting with a plug-in solver, in which the agent learns a model in the exploration phase and demands that any planning algorithm on the learned model can give a near-optimal policy. We provide efficient learning algorithms with near-optimal sample complexity bounds.
