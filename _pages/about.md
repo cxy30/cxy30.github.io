@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiaoyu Chen. I am a forth-year PhD student in Peking University. I am very fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com). Before that, I finished my undergraduate study with honors at Peking University. My research interests lie in reinforcement learning and online learning. For reinforcement learning, I am interested in designing efficient exploration algorithms with theoretical guarantees. For online learning, I mainly focus on bandit learning.
+My name is Xiaoyu Chen. I am a fifth-year PhD student in Peking University. I am very fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com). Before that, I finished my undergraduate study with honors at Peking University. My research interests lie in reinforcement learning and online learning. For reinforcement learning, I am interested in designing efficient exploration algorithms with theoretical guarantees. For online learning, I mainly focus on bandit learning.
 
 News
 ======
+* One paper accepted by ICML 2022. May. 2022
 * Two paper accepted by ICLR 2022 (spotlight). Feb. 2022
-* One paper accepted by ICML 2021. May. 2021
 
 Selected Publications
 ======
