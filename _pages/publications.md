@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * [Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation](https://arxiv.org/abs/2205.11140)  
-**Xiaoyu Chen**\*, Jiachen Hu\*, Zhuoran Yang, Zhaoran Wang, Liwei Wang  
+**Xiaoyu Chen**\*, Han Zhong\*, Zhuoran Yang, Zhaoran Wang, Liwei Wang  
 ICML 2022
 
 * [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)  
