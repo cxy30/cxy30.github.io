@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [On the Power of Pre-training for Generalization in RL: Provable Benefits and Hardness](https://arxiv.org/abs/2210.10464)
-Haotian Ye, **Xiaoyu Chen**, Liwei Wang, Simon S Du
-ICML 2023
+* [On the Power of Pre-training for Generalization in RL: Provable Benefits and Hardness](https://arxiv.org/abs/2210.10464)  
+Haotian Ye, **Xiaoyu Chen**, Liwei Wang, Simon S Du  
+ICML 2023 
 
 * [Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation](https://arxiv.org/abs/2205.11140)  
 **Xiaoyu Chen**\*, Han Zhong\*, Zhuoran Yang, Zhaoran Wang, Liwei Wang  
