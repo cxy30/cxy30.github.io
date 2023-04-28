@@ -12,8 +12,9 @@ My name is Xiaoyu Chen. I am a fifth-year PhD student in Peking University. I am
 
 News
 ======
+* One paper accepted by ICML 2023. April. 2023
 * One paper accepted by ICML 2022. May. 2022
-* Two paper accepted by ICLR 2022 (spotlight). Feb. 2022
+* Two papers accepted by ICLR 2022 (spotlight). Feb. 2022
 
 Selected Publications
 ======
